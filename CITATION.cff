@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or its research materials, please cite the accompanying article."
+title: "Emotional Equivalence Assessment for Literary Translation"
+type: software
+authors:
+  - family-names: Nikitin
+    given-names: Petr
+    email: pvniktin@fa.ru
+repository-code: "https://github.com/PetrNikitin20/Emotional_Equivalence"
+url: "https://github.com/PetrNikitin20/Emotional_Equivalence"
+date-released: 2026-09-14
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Nikitin
+      given-names: Petr
+  title: "Automated Assessment of Emotional Equivalence in Literary Translation with Explicit Cultural-Marker Analysis"
+  journal: "Scientific Culture"
+  year: 2026
