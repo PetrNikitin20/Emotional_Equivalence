@@ -1,0 +1,9 @@
+metric,value,scope,interpretation
+Pearson correlation between EQA and mean expert rating,0.82,three-passage validation subset,preliminary descriptive estimate
+Inter-annotator agreement,0.84,three-passage validation subset,consensus annotation subsequently produced
+Dominant-emotion accuracy,0.79,three-passage validation subset,preliminary descriptive estimate
+Valence correlation,0.79,three-passage validation subset,preliminary descriptive estimate
+Arousal correlation,0.74,three-passage validation subset,preliminary descriptive estimate
+Dominance correlation,0.71,three-passage validation subset,preliminary descriptive estimate
+Cultural-marker precision,0.78,reported validation analysis,aggregate estimate
+Cultural-marker recall,0.65,reported validation analysis,aggregate estimate
